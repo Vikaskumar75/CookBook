@@ -6,13 +6,13 @@ This is a Simple app with a basic Ui.
 
 In This Project Following things were covered:-
 
-Firebse Create and Update methods.
+#  Firebse Create and Update methods.
 
-Firebase Social Authentication.
+# Firebase Social Authentication.
 
-Facebook Authentication.
+#  Facebook Authentication.
 
-Simple animations.
+#  Simple animations.
 
 ![WhatsApp Image 2021-04-02 at 17 03 01 (1)](https://user-images.githubusercontent.com/48128175/113412269-75497e80-93d5-11eb-8f40-e7be69b6863c.jpeg)
 ![WhatsApp Image 2021-04-02 at 17 03 01](https://user-images.githubusercontent.com/48128175/113412271-75e21500-93d5-11eb-893c-377c6aa722f2.jpeg)
